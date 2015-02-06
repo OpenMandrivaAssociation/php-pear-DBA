@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.1
-Release:	10
+Release:	11
 Summary:	Berkeley-style Database Class
 License:	PHP License
 Group:		Development/PHP
